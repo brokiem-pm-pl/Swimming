@@ -1,0 +1,6 @@
+name: Swimming
+main: brokiem\swimming\Swimming
+version: 1.0.0
+api: 3.15.0
+mcpe-protocol: [ 428, 431 ]
+author: brokiem
